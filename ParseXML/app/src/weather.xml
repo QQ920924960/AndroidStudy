@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weacher>
+    <city>
+        <name>深圳</name>
+        <temp>35°</temp>
+        <pm>20</pm>
+    </city>
+    <city>
+        <name>上海</name>
+        <temp>38°</temp>
+        <pm>150</pm>
+    </city>
+    <city>
+        <name>北京</name>
+        <temp>38°</temp>
+        <pm>20</pm>
+    </city>
+    <city>
+        <name>广州</name>
+        <temp>36°</temp>
+        <pm>300</pm>
+    </city>
+</weacher>
